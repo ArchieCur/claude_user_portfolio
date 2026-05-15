@@ -30,7 +30,7 @@ Support teams scale through knowledge, not headcount. These resources were built
 
 The hardest part of support isn't knowing the technical answer — it's translating it correctly for who's asking. These resources were built for audiences ranging from C-suite to developer to first-time AI user.
 
-**[Enterprise_AI_Adoption_Dev_Guide](https://github.com/ArchieCur/Enterprise_AI_Adoption_Dev_Guide)** — Enterprises implementing AI face a different set of problems than individual developers: governance, integration constraints, security requirements, and organizational resistance. This guide addresses those blockers specifically.
+**[Enterprise_AI_Adoption_Dev_Guide](https://github.com/ArchieCur/Enterprise_AI_Adoption_Dev_Guide)** — Enterprises implementing AI face a different set of problems than individual developers: governance, integration constraints, security requirements, and organizational resistance. This guide addresses those blockers specifically across 25 Enterprise roles.
 *Demonstrates: understanding of enterprise user context beyond the technical question on the surface*
 
 **[doc_translation_layer](https://github.com/ArchieCur/doc_translation_layer)** — The same information needs to be expressed differently for different audiences. This project explores systematic approaches to adapting documentation across user types — the same instinct that makes a support specialist effective at context-switching.
