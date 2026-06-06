@@ -63,6 +63,4 @@ Effective support requires being able to go wherever a user's problem leads. The
 
 I built these resources because getting AI right matters, and the people who need help using these tools well are exactly the users Anthropic cares most about serving.
 
-Support at Anthropic isn't just closing tickets. It's the front line for understanding what's actually hard for real users — and feeding that signal back into how the product evolves. That feedback loop, done well, is one of the highest-leverage things a support team can do.
 
-That's the work I want to do.
