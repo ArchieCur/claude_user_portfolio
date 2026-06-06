@@ -2,15 +2,13 @@
 
 The repositories in this collection share a common origin: I identified a gap between what Claude users needed and what existing documentation provided, then built something to close it.
 
-That instinct — to notice friction, understand its cause, and build a resource that removes it at scale — is the same one I'd bring to Anthropic's support team.
-
 All of these repositories were built in active collaboration with Claude Sonnet and Claude Code — which means I've been a Claude power user and API integrator throughout, not just an observer of the platform.
 
 ---
 
 ## Building Resources That Grow With the Platform
 
-Support teams scale through knowledge, not headcount. These resources were built to help Claude users go further on their own — and to give support teams something durable to point to.
+Teams scale through knowledge, not headcount. These resources were built to help Claude users go further on their own — and to give teams something durable to point to.
 
 **[anthropic_agent_field_guide](https://github.com/ArchieCur/anthropic_agent_field_guide)** — Practitioners deploying agents in production needed troubleshooting patterns organized around real failure modes, not feature descriptions. This field guide is structured around what goes wrong and why, written for developers already in the weeds.
 *Demonstrates: proactive knowledge gap identification, resource creation for advanced technical users*
